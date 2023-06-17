@@ -6,4 +6,4 @@ More information about my experience on the [LinkedIn page](https://www.linkedin
 
 I was an active Kaggler in TOP-20 of a global competition ranking. Competitions and Notebooks Master. [Kaggle profile](https://www.kaggle.com/ilialar)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaLarchenko&count_private=true&include_all_commits=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IliaLarchenko&count_private=true&include_all_commits=true&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
