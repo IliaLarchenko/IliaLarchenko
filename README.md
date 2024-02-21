@@ -1,6 +1,6 @@
 ### Hi! I am Ilia.
 
-I am a Data Science manager with a diverse technical and business background. 
+I am a Data Science Director with a diverse technical and business background. 
 I live in Bangkok and work in Agoda, where I lead multiple DS and ML teams.
 More information about my experience on the [LinkedIn page](https://www.linkedin.com/in/larchenko/)
 
