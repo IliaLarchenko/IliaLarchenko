@@ -1,4 +1,5 @@
-![GitHub stars](https://img.shields.io/github/stars/IliaLarchenko?style=social) ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7wfx5BG_Ad6pxD56b8IVIg?style=social)
+![GitHub stars](https://img.shields.io/github/stars/IliaLarchenko?style=social) [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7wfx5BG_Ad6pxD56b8IVIg?style=social)](https://www.youtube.com/@ilialarchenko)
+
 
 ### Hi! I am Ilia.
 
